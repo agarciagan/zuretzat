@@ -1,6 +1,6 @@
 ZURETZAT
 ========
-En construcción
+Plataforma abierta para una Administración participativa
 ========
 
 En la última década Internet ha revolucionado nuestra sociedad, alterando los hábitos en amplios sectores. Este efecto se ha visto ampliado por la irrupción de las tecnologías móviles y los dispositivos móviles inteligentes o smartphones. Sectores como el comercio, el turismo, la música o el cine se han tenido que adaptar a esta revolución y a los nuevos hábitos de los consumidores.
